@@ -1116,10 +1116,6 @@ header .container nav .menu {
     background-color: var(--main-color);
 }
 
-
-
-
-
 .skills-comp .parent .one-skill .container-percent .p85 {
     width: 85%;
 }
@@ -1156,7 +1152,8 @@ header .container nav .menu {
 
 .skills-comp .parent .one-skill .container-percent.percent::after,
 .skills-comp .parent .one-skill .container-percent .p85::after,
-.skills-comp .parent .one-skill .container-percent .p80::after {
+.skills-comp .parent .one-skill .container-percent .p80::after,
+.skills-comp .parent .one-skill .container-percent .p90::after {
     content: "";
     position: absolute;
     border-style: solid;
